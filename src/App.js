@@ -1,23 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h2> Bekir Sıdkı Sezgin 8. Mısra</h2>
+
+      <video width="700px" height="400px" controls>
+        <source
+          src="https://d3rklpiaxtqmrs.cloudfront.net/Bekir-S%C4%B1dk%C4%B1-Sezgin-8.-M%C4%B1sra.wav"
+          type="video/mp4"
+        />
+      </video>
     </div>
   );
 }
