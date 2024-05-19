@@ -15,6 +15,15 @@ function App() {
             />
           }
         />
+        <Route
+          path="/home"
+          element={
+            <Component
+              content="Bekir Sıdkı Sezgin 2. Mısra"
+              videopath="https://d3rklpiaxtqmrs.cloudfront.net/Bekir%20S%C4%B1dk%C4%B1%20Sezgin%202.%20M%C4%B1sra.mp4"
+            />
+          }
+        />
       </Routes>
     </div>
   );
