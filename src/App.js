@@ -7,7 +7,7 @@ function App() {
     <div>
       <Routes>
         <Route
-          path="/home"
+          path="https://ekrem-video-streaming.netlify.app/home"
           element={
             <Component
               content="Bekir Sıdkı Sezgin 1. Mısra"
