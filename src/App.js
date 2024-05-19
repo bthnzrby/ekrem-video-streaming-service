@@ -7,8 +7,8 @@ function App() {
 
       <video width="400px" height="200px" controls>
         <source
-          src="https://d3rklpiaxtqmrs.cloudfront.net/Bekir-S%C4%B1dk%C4%B1-Sezgin-11.%20M%C4%B1sra.mp4"
-          type="video/mp4"
+          src="https://d3rklpiaxtqmrs.cloudfront.net/Bekir%20S%C4%B1dk%C4%B1%20Sezgin%206.%20Terennu%CC%88m.mp4"
+          // type="video/mp4"
         />
 
         {/* <source
