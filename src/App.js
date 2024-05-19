@@ -11,10 +11,10 @@ function App() {
           type="video/mp4"
         />
 
-        {/* <source
+        <source
           src="https://d3rklpiaxtqmrs.cloudfront.net/Bekir-Sıdkı-Sezgin-8.-Mısra.webm"
           type="video/webm"
-        ></source> */}
+        ></source>
       </video>
     </div>
   );
