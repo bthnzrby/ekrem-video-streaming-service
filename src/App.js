@@ -8,7 +8,7 @@ function App() {
       <Routes>
         {/* Bekir Sıdkı Sezgin */}
         <Route
-          path="/Bekir-Sidki-Sezgin-1.Misra"
+          path="/BSS-1.Misra"
           element={
             <Component
               content="Bekir Sıdkı Sezgin 1. Mısra"
@@ -17,7 +17,7 @@ function App() {
           }
         />
         <Route
-          path="/Bekir-Sidki-Sezgin-2.Misra"
+          path="/BSS-2.Misra"
           element={
             <Component
               content="Bekir Sıdkı Sezgin 2. Mısra"
@@ -26,7 +26,7 @@ function App() {
           }
         />
         <Route
-          path="/Bekir-Sidki-Sezgin-3.Misra"
+          path="/BSS-3.Misra"
           element={
             <Component
               content="Bekir Sıdkı Sezgin 3. Mısra"
@@ -35,7 +35,7 @@ function App() {
           }
         />
         <Route
-          path="/Bekir-Sidki-Sezgin-4.Misra"
+          path="/BSS-4.Misra"
           element={
             <Component
               content="Bekir Sıdkı Sezgin 4. Mısra"
@@ -44,7 +44,7 @@ function App() {
           }
         />
         <Route
-          path="/Bekir-Sidki-Sezgin-5.Misra"
+          path="/BSS-5.Misra"
           element={
             <Component
               content="Bekir Sıdkı Sezgin 5. Mısra"
@@ -53,7 +53,7 @@ function App() {
           }
         />
         <Route
-          path="/Bekir-Sidki-Sezgin-6.Misra"
+          path="/BSS-6.Misra"
           element={
             <Component
               content="Bekir Sıdkı Sezgin 6. Mısra"
@@ -62,7 +62,7 @@ function App() {
           }
         />
         <Route
-          path="/Bekir-Sidki-Sezgin-7.Misra"
+          path="/BSS-7.Misra"
           element={
             <Component
               content="Bekir Sıdkı Sezgin 7. Mısra"
@@ -71,7 +71,7 @@ function App() {
           }
         />
         <Route
-          path="/Bekir-Sidki-Sezgin-8.Misra"
+          path="/BSS-8.Misra"
           element={
             <Component
               content="Bekir Sıdkı Sezgin 8. Misra"
@@ -80,7 +80,7 @@ function App() {
           }
         />
         <Route
-          path="/Bekir-Sidki-Sezgin-9.Misra"
+          path="/BSS-9.Misra"
           element={
             <Component
               content="Bekir Sıdkı Sezgin 9. Mısra"
@@ -89,7 +89,7 @@ function App() {
           }
         />
         <Route
-          path="/Bekir-Sidki-Sezgin-10.Misra"
+          path="/BSS-10.Misra"
           element={
             <Component
               content="Bekir Sıdkı Sezgin 10. Mısra"
@@ -98,7 +98,7 @@ function App() {
           }
         />
         <Route
-          path="/Bekir-Sidki-Sezgin-11.Misra"
+          path="/BSS-11.Misra"
           element={
             <Component
               content="Bekir Sıdkı Sezgin 11. Mısra"
@@ -107,7 +107,7 @@ function App() {
           }
         />
         <Route
-          path="/Bekir-Sidki-Sezgin-12.Misra"
+          path="/BSS-12.Misra"
           element={
             <Component
               content="Bekir Sıdkı Sezgin 12. Mısra"
@@ -116,7 +116,7 @@ function App() {
           }
         />
         <Route
-          path="/Bekir-Sidki-Sezgin-1.Terennum"
+          path="/BSS-1.Terennum"
           element={
             <Component
               content="Bekir Sıdkı Sezgin 1. Terennüm"
@@ -125,7 +125,7 @@ function App() {
           }
         />
         <Route
-          path="/Bekir-Sidki-Sezgin-2.Terennum"
+          path="/BSS-2.Terennum"
           element={
             <Component
               content="Bekir Sıdkı Sezgin 2. Terennüm"
@@ -134,7 +134,7 @@ function App() {
           }
         />
         <Route
-          path="/Bekir-Sidki-Sezgin-3.Terennum"
+          path="/BSS-3.Terennum"
           element={
             <Component
               content="Bekir Sıdkı Sezgin 3. Terennüm"
@@ -143,7 +143,7 @@ function App() {
           }
         />
         <Route
-          path="/Bekir-Sidki-Sezgin-4.Terennum"
+          path="/BSS-4.Terennum"
           element={
             <Component
               content="Bekir Sıdkı Sezgin 4. Terennüm"
@@ -152,7 +152,7 @@ function App() {
           }
         />
         <Route
-          path="/Bekir-Sidki-Sezgin-5.Terennum"
+          path="/BSS-5.Terennum"
           element={
             <Component
               content="Bekir Sıdkı Sezgin 5. Terennüm"
@@ -161,7 +161,7 @@ function App() {
           }
         />
         <Route
-          path="/Bekir-Sidki-Sezgin-6.Terennum"
+          path="/BSS-6.Terennum"
           element={
             <Component
               content="Bekir Sıdkı Sezgin 6. Terennüm"
@@ -170,7 +170,7 @@ function App() {
           }
         />
         <Route
-          path="/Bekir-Sidki-Sezgin-7.Terennum"
+          path="/BSS-7.Terennum"
           element={
             <Component
               content="Bekir Sıdkı Sezgin 7. Terennüm"
@@ -179,7 +179,7 @@ function App() {
           }
         />
         <Route
-          path="/Bekir-Sidki-Sezgin-8.Terennum"
+          path="/BSS-8.Terennum"
           element={
             <Component
               content="Bekir Sıdkı Sezgin 8. Terennüm"
@@ -187,18 +187,9 @@ function App() {
             />
           }
         />
-        <Route
-          path="/Bekir-Sidki-Sezgin-Nat-i-Mevlana"
-          element={
-            <Component
-              content="Bekir Sıdkı Sezgin Nat-ı Mevlana"
-              videopath="https://d3rklpiaxtqmrs.cloudfront.net/Nat-%C4%B1%20Mevlana-BSS.mp4"
-            />
-          }
-        />
         {/* Kani Karaca */}
         <Route
-          path="/Kani-Karaca-1.Misra"
+          path="/KK-1.Misra"
           element={
             <Component
               content="Kâni Karaca 1. Mısra"
@@ -207,7 +198,7 @@ function App() {
           }
         />
         <Route
-          path="/Kani-Karaca-2.Misra"
+          path="/KK-2.Misra"
           element={
             <Component
               content="Kâni Karaca 2. Mısra"
@@ -216,7 +207,7 @@ function App() {
           }
         />
         <Route
-          path="/Kani-Karaca-3.Misra"
+          path="/KK-3.Misra"
           element={
             <Component
               content="Kâni Karaca 3. Mısra"
@@ -225,7 +216,7 @@ function App() {
           }
         />
         <Route
-          path="/Kani-Karaca-4.Misra"
+          path="/KK-4.Misra"
           element={
             <Component
               content="Kâni Karaca 4. Mısra"
@@ -234,7 +225,7 @@ function App() {
           }
         />
         <Route
-          path="/Kani-Karaca-5.Misra"
+          path="/KK-5.Misra"
           element={
             <Component
               content="Kâni Karaca 5. Mısra"
@@ -243,7 +234,7 @@ function App() {
           }
         />
         <Route
-          path="/Kani-Karaca-6.Misra"
+          path="/KK-6.Misra"
           element={
             <Component
               content="Kâni Karaca 6. Mısra"
@@ -252,7 +243,7 @@ function App() {
           }
         />
         <Route
-          path="/Kani-Karaca-7.Misra"
+          path="/KK-7.Misra"
           element={
             <Component
               content="Kâni Karaca 7. Mısra"
@@ -261,7 +252,7 @@ function App() {
           }
         />
         <Route
-          path="/Kani-Karaca-8.Misra"
+          path="/KK-8.Misra"
           element={
             <Component
               content="Kâni Karaca 8. Mısra"
@@ -270,7 +261,7 @@ function App() {
           }
         />
         <Route
-          path="/Kani-Karaca-9.Misra"
+          path="/KK-9.Misra"
           element={
             <Component
               content="Kâni Karaca 9. Mısra"
@@ -279,7 +270,7 @@ function App() {
           }
         />
         <Route
-          path="/Kani-Karaca-10.Misra"
+          path="/KK-10.Misra"
           element={
             <Component
               content="Kâni Karaca 10. Mısra"
@@ -288,7 +279,7 @@ function App() {
           }
         />
         <Route
-          path="/Kani-Karaca-11.Misra"
+          path="/KK-11.Misra"
           element={
             <Component
               content="Kâni Karaca 11. Mısra"
@@ -297,7 +288,7 @@ function App() {
           }
         />
         <Route
-          path="/Kani-Karaca-12.Misra"
+          path="/KK-12.Misra"
           element={
             <Component
               content="Kâni Karaca 12. Mısra"
@@ -306,7 +297,7 @@ function App() {
           }
         />
         <Route
-          path="/Kani-Karaca-1.Terennum"
+          path="/KK-1.Terennum"
           element={
             <Component
               content="Kâni Karaca 1. Terennüm"
@@ -315,7 +306,7 @@ function App() {
           }
         />
         <Route
-          path="/Kani-Karaca-2.Terennum"
+          path="/KK-2.Terennum"
           element={
             <Component
               content="Kâni Karaca 2. Terennüm"
@@ -324,7 +315,7 @@ function App() {
           }
         />
         <Route
-          path="/Kani-Karaca-3.Terennum"
+          path="/KK-3.Terennum"
           element={
             <Component
               content="Kâni Karaca 3. Terennüm"
@@ -333,7 +324,7 @@ function App() {
           }
         />
         <Route
-          path="/Kani-Karaca-4.Terennum"
+          path="/KK-4.Terennum"
           element={
             <Component
               content="Kâni Karaca 4. Terennüm"
@@ -342,7 +333,7 @@ function App() {
           }
         />
         <Route
-          path="/Kani-Karaca-5.Terennum"
+          path="/KK-5.Terennum"
           element={
             <Component
               content="Kâni Karaca 5. Terennüm"
@@ -351,7 +342,7 @@ function App() {
           }
         />
         <Route
-          path="/Kani-Karaca-6.Terennum"
+          path="/KK-6.Terennum"
           element={
             <Component
               content="Kâni Karaca 6. Terennüm"
@@ -360,7 +351,7 @@ function App() {
           }
         />
         <Route
-          path="/Kani-Karaca-7.Terennum"
+          path="/KK-7.Terennum"
           element={
             <Component
               content="Kâni Karaca 7. Terennüm"
@@ -369,20 +360,11 @@ function App() {
           }
         />
         <Route
-          path="/Kani-Karaca-8.Terennum"
+          path="/KK-8.Terennum"
           element={
             <Component
               content="Kâni Karaca 8. Terennüm"
               videopath="https://d3rklpiaxtqmrs.cloudfront.net/Ka%CC%82ni%20Karaca%208.%20Terennu%CC%88m.mp4"
-            />
-          }
-        />
-        <Route
-          path="/Rast-Naat-Kani-Karaca"
-          element={
-            <Component
-              content="Rast Naat Kâni Karaca"
-              videopath="https://d3rklpiaxtqmrs.cloudfront.net/05%20-%20Rast%20Naat-Kani%20Karaca%20Kalan.mp4"
             />
           }
         />
