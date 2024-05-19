@@ -7,7 +7,7 @@ function App() {
     <div>
       <Routes>
         <Route
-          path="/"
+          path="/Bekir-Sıdkı-Sezgin-1.Mısra"
           element={
             <Component
               content="Bekir Sıdkı Sezgin 1. Mısra"
@@ -16,7 +16,7 @@ function App() {
           }
         />
         <Route
-          path="/home"
+          path="/Bekir-Sıdkı-Sezgin-2.Mısra"
           element={
             <Component
               content="Bekir Sıdkı Sezgin 2. Mısra"
